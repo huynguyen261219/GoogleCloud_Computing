@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pubsub-422710",
+  "private_key_id": "712ee9c50256eb7a66f75c810b88f33ce020f97f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCiCpHhhznSmH6k\nEc+05RuqYpwSJ18IeXbikgnZsVNqgQBXP0xmdFpF+7+ULWKU2MRfD0roRZB9ldC7\nmwGD3hRTRoD/FoXo3ug+dvFgybAHzme7rznvcSItyt3Oi/GpsMn3Lmz9iNJ+FZqF\nBLkSkHDjInm6Jqq0Wc0HmxB9WN8Gq7L59yqDxGWpjlni8KCpljKGPLhaPWuVcF6K\nT31hec/Qmf6QxYOk76801VjE4t3KwIcPbByUM9+Nbzw+OiEhkJlFwh3GzWUcgNrQ\n7uucwGQkHekOLdfBpbB4O57LSgfWQPuy69Pq/YlhNi3LKcFn19Yv2tLhf6nOOQEm\nTLFBJJQtAgMBAAECggEAFqZEktIMfofLN9K3hjD6B3xmFVGEgpI70FqaXt/e6YWj\njw5tduqvjZWtRyB65ZRRCnqAPWwv0KYGuZpmgVCi5ar2r/EtgYnay5Rjk+RNIyIy\nNLU+812MafsvusWr30yzRkYqfNvJlE8fvJUW62XeKZlxi1gJR1FAC96cVPD9p5hS\nDPSdDcK5PKO3dXkrxWp0tcitegZo+Exg8orOEbxH6LovEboWMS0jb8cnL1Cvmtv0\nNzBTIObVETxM1Mqmt6Q8Wn7/790bNwGZz8xvgSE5a3Hs4ypZ2SJ6iHXdNRZyIeqZ\nAMb+KLxTSdbtPIP92HaLj8mU2X6E7gRHFJQkuEpdPwKBgQDj8LJntN9ZQNe+DXU7\n5Syu/6RLfkEie5+yNOWsqxALE63oe9HblE0AN/p9kgW4yumj4bX2xTz8eSyPMpfo\nTU0rU1p//WNDLHeaz/teZB02X0upd3qynJBSDv+wLyzGxkAnCZcwnvG0ExTaovvk\naUX6Cm6Y5Xp0qMY6lU+Ik+28mwKBgQC1/SKqn9b6SjKPj255x77Qzc4dx73h0f95\n2e0zXG5VaiEenzJXgMmt27VW9XEmL5HUoO6alrlZw6PF0SvFtgqA40o/NQUMp0/G\n6ouyEPm9iF1BwIAdfO/RjPO6jDHYIPzvOkl5pqlrovDEM08tyavAVJ6jK94gjIyx\nYyMZ79lq1wKBgQCnftG6P0D4dxuRvpXtI2SIW7ZA+0+lpS4eZ5x2G2W4ngdnFMWL\nExjaFkhtSYYG2qSBFnT+FsXPyMMjnsvdmiAgvCl+b5YnYF+rVTWjkPGeaLxSlUeG\nRGIQypC8yI2gq0Gs7fE5ezKlXnguiSGMIIeZS10l4Urwuqyfk+RTulAyDQKBgDGP\nILykUI/SWth7b9NcENud4A5+EXiIjnDpZs4A0s8R2rkTE0t+9+0Pkt9+cXS7qZPk\ny3VvrEQEofnBz5DE1TFqNBLoZlqeyXva7XXtZ4U0uGiqenkNR+Wh49GeUgiQWzDu\nh4nIWATG15gmfN50OABlStoWnSPyAnJgE/QBPAz7AoGBAJwF55BY7tDhxlHmtSUs\n1OAu1kutQu/ViAYxi+cZXAYZjGGzxXDjyubMES4UJhlPGWozDSIqsiGgfoZ9NYJ9\nGmF1x2YFSAJz+Qfy0a/ZHmIxyNMuZPog/s9VUYmaLKPImt/qxgRc4A9hwv25qpHJ\nfmDeW/RxjudPRtiJ2ZCwHXH5\n-----END PRIVATE KEY-----\n",
+  "client_email": "houseplants-service-account@pubsub-422710.iam.gserviceaccount.com",
+  "client_id": "103522450462739758455",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/houseplants-service-account%40pubsub-422710.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
